@@ -9,3 +9,5 @@
 
 ## Category
 - Python
+- Math for Data
+- Statistics
