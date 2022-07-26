@@ -12,3 +12,4 @@
 - Python
 - Math for Data
 - Statistics
+- Git & Github
